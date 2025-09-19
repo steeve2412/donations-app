@@ -31,10 +31,10 @@ Built as part of a take-home coding assessment.
 > Place screenshots in a `docs/` folder at the repo root and update these links.
 
 - **Backend (Swagger UI)**  
-  ![Swagger UI](docs/swagger.png)
+  ![Swagger UI](docs/Backend.png)
 
 - **Frontend (Donation Form + Table)**  
-  ![Frontend UI](docs/frontend.png)
+  ![Frontend UI](docs/Front-End.png)
 
 ---
 
