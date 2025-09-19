@@ -1,0 +1,21 @@
+# .NET build
+bin/
+obj/
+*.user
+*.suo
+
+# EF Core
+backend/DonationsAPI/donations.db
+backend/DonationsAPI/donations.db-shm
+backend/DonationsAPI/donations.db-wal
+
+# Node
+frontend/node_modules/
+build/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
